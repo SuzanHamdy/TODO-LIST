@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  margin: 150px    25%;
+  padding: 50px 100px;
+  background-color: #e5e2f1;
+  border: 1px  solid #074fd3;
+  color: #0f0455;
+  border-radius: 20px;
+  font-size: 25px;
+ 
+
+}
+body{
+  background-color: #e8f2fa;
+  font-family: 'Times New Roman', Times, serif;
+}
+.App ul{
+
+  border: #06419b;
+
+}
+.App ul li{
+  border: #06419b;
+  color: #06419b;
+  font-size: 20px;
+  margin: 12px;
+  word-wrap: break-word;
+ list-style: none;
+  cursor: pointer;
+}
+.App input{
+  width: 280px;
+  height: 35px;
+  border-radius: 10px;
+  margin: 20px;
+  font-size: 25px;
+  border: 1px  solid #074fd3;
+
+}
+.App button{
+  width: 280px;
+  height: 35px;
+  border-radius: 10px;
+  margin: 10px;
+font-size: 25px;
+border: 1px  solid #074fd3;
+cursor: pointer;
+}
+.difstyle{
+list-style: ✅;
+background-color:#e8f2fa ;
+text-decoration:line-through  #8a9ab1;
+
+}
+.task{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.task span{
+  background-color:#e8f2fa ;
+  color: #06419b;
+  cursor: pointer;
+}
